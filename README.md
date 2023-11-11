@@ -1,1 +1,1 @@
-# Informatics & Programming resources and compeleted tasks from our Computer Science Curriculum.
+# Informatics resources + compeleted tasks from our Computer Science Curriculum.
