@@ -1,6 +1,6 @@
 package fop.w3simple;
 
-public class Arrays extends MiniJava {
+public class Main extends MiniJava {
     public static void print(int[] arr) {
         StringBuilder text = new StringBuilder("{");
         for (int i = 0; i < arr.length; i++) {
